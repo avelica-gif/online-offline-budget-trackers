@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "online-offline-budget-trackers",
+			"path": ".."
+		},
+		{
+			"name": "models",
+			"path": "..\\..\\..\\..\\ucr-riv-fsf-pt-10-2020-u-c\\18-PWA\\02-Homework\\Develop\\models"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
